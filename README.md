@@ -59,4 +59,9 @@ O plano de endereçamento IP prevê a segmentação de cada bloco em três sub-r
 
 - VLAN 160 – 172.18.160.0/24 – Marketing  
 - VLAN 170 – 172.18.170.0/24 – Compras  
-- VLAN 180 – 172.18.180.0/24 – Vendas  
+- VLAN 180 – 172.18.180.0/24 – Vendas
+
+  A topologia utilizada nesta primeira fase do projeto será a apresentada abaixo:
+  <img width="1220" height="512" alt="Topologia" src="https://github.com/user-attachments/assets/77a0e190-060a-4782-a7c4-2b14330942d7" />
+
+
