@@ -54,7 +54,7 @@ Equipe de Call Center::
 
 ---
 
-## Camada de distribuição
+## Camada de distribution
 A camada de distribuição do bloco A acomoda um switche 3650 24PS GigabitEthernet (Layer 3) que proverá o roteamento entre VLANs e o roteamento externo.
 
 ---
